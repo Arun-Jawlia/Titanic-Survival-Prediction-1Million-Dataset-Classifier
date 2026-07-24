@@ -80,7 +80,7 @@ with col2:
 
     embarked = st.selectbox(
         "Embarked Port",
-        ["Southampton", "Cherbourg", "Queenstown"]
+        ["Southampton", "Chebourg", "Queenstown"]
     )
 
 # -------------------- Prediction -------------------- #
